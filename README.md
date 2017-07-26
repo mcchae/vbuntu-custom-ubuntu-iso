@@ -24,7 +24,7 @@
 
 우분투 데스크탑에 대해서 조금 더 살펴보자면  X-Window 라는 기본 화면 구성 하위 기반이 있고 그 위에 윈도우 매니저에 따라 여러가지가 있습니다.
 
-* [gnorm](https://ko.wikipedia.org/wiki/그놈) : 11.04 데스크탑 까지는 그놈 윈도우 매니저를 이용하였으나 그 이후 Unity 라는 캐노니컬 만의 윈도우 매니저를 사용하게 됩니다. 반면 CentOS는 계속 그놈을 사용하고 있는 것으로 보입니다. (틀리면 지적해 주십시오)
+* [gnome](https://ko.wikipedia.org/wiki/그놈) : 11.04 데스크탑 까지는 그놈 윈도우 매니저를 이용하였으나 그 이후 Unity 라는 캐노니컬 만의 윈도우 매니저를 사용하게 됩니다. 반면 CentOS는 계속 그놈을 사용하고 있는 것으로 보입니다. (틀리면 지적해 주십시오)
 * [KDE](https://ko.wikipedia.org/wiki/KDE) : 그놈과 더불어 X-Window 진영에서 양대 윈도우 매니저입니다. 특별히 KDE로 꾸며놓은 배포판은 [Kubuntu](http://www.kubuntu.org) 라고 하여 이용할 수 있습니다.
 * [Unity](https://en.wikipedia.org/wiki/Unity_(user_interface)) : 캐노니컬사에서 야심차게 별도의 데스크탑으로 큰 꿈을 품고 적용을 하였으나 결국은 18.04 데스크탑부터는 그놈으로 되돌아 간다 합니다. 개인적으로는 Unity를 처음 이용하고는 버그도 많고 너무 무거워서 우분투 데스크탑을 사용하지 않게 되었습니다.
 * [Xfce](https://ko.wikipedia.org/wiki/Xfce) : 가벼운 윈도우를 기치로 꾸준히 사용되어온 윈도우 매니저 중에 하나입니다. Kubuntu 처럼 [xubuntu](https://xubuntu.org)라는 배포판을 관리하고 있습니다.
